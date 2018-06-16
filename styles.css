@@ -1,0 +1,33 @@
+body{
+		margin: 0px 0px;
+		padding: 0;
+	}	
+
+h2	{
+		width: 400px;
+		text-align: center;
+		border-bottom: 2px solid pink;
+		border-right: 2px solid pink;
+		font-family: 'Shrikhand', cursive;
+	}
+
+img {
+		height: 300px;
+		width: 340px;
+		margin: 6px;
+		transition: all 1s;
+	}
+.container
+	{
+		margin-top: 40px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		
+
+	}
+
+img:hover
+	{
+		transform: scale(1.1);
+	}
