@@ -4,7 +4,7 @@ body{
 	}	
 
 h2	{
-		width: 400px;
+		width: 401px;
 		text-align: center;
 		border-bottom: 2px solid pink;
 		border-right: 2px solid pink;
@@ -12,14 +12,14 @@ h2	{
 	}
 
 img {
-		height: 300px;
-		width: 340px;
+		height: 301px;
+		width: 341px;
 		margin: 6px;
 		transition: all 1s;
 	}
 .container
 	{
-		margin-top: 40px;
+		margin-top: 41px;
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
