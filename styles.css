@@ -4,10 +4,10 @@ body{
 	}	
 
 h2	{
-		width: 400px;
+		width: 450px;
 		text-align: center;
-		border-bottom: 2px solid pink;
-		border-right: 2px solid pink;
+		border-bottom: 2px solid rgb(5, 247, 226);
+		border-right: 2px solid rgb(5, 247, 226);
 		font-family: 'Shrikhand', cursive;
 	}
 
@@ -30,4 +30,5 @@ img {
 img:hover
 	{
 		transform: scale(1.1);
+		cursor: pointer;
 	}
